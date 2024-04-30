@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: white;
+    
 }
 ul,ol{
     list-style: none;
@@ -15,7 +17,8 @@ body{
     background-position: center;
    display: flex;
    align-items: center;
-   
+   color: white;
+  
 }
 a{
     text-decoration: none;
